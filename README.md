@@ -61,12 +61,6 @@ Credentials are validated using JDBC against records stored in the SQL database.
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots here (Customer Menu View, Order Page, Admin Dashboard, etc.)
-
----
-
 ## 🤝 Contributions
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
